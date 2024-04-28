@@ -1,7 +1,5 @@
 import mysql.connector
 
- 
-
 connection = mysql.connector.connect (
     user = 'root' ,
     database = 'elite102' ,
